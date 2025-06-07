@@ -1,0 +1,11 @@
+.right-side {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+}
+
+.right-side img {
+  max-width: 100%;
+  height: auto;
+}

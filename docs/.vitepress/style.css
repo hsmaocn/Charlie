@@ -1,0 +1,30 @@
+.error-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.suggestions {
+  margin-top: 2rem;
+}
+
+.suggestions ul {
+  list-style: none;
+  padding: 0;
+}
+
+.suggestions li {
+  margin: 0.5rem 0;
+}
+
+.lang-switch {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+@media (max-width: 768px) {
+  .lang-switch {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+}
